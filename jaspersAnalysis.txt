@@ -1,0 +1,67 @@
+C55-C59  Two knights defence:
+number of games played: 1 with wins % as white: 100.0%
+
+C41  Philidor's defence:
+number of games played: 1 with wins % as white: 100.0%
+
+C40  Latvian counter-gambit:
+number of games played: 1 with wins % as white: 0.0%
+
+B01  Scandinavian defence:
+number of games played: 1 with wins % as white: 100.0%
+
+B20-B99  Sicilian defence:
+number of games played: 19 with wins % as white: 57.89473684210527%
+
+number of games played: 2 with wins % as black: 0.0%
+
+A02-A03  Bird's opening:
+number of games played: 1 with wins % as black: 100.0%
+
+C50  Hungarian defence:
+number of games played: 1 with wins % as white: 0.0%
+
+B00  King's pawn opening:
+number of games played: 3 with wins % as white: 100.0%
+
+B01  Scandinavian (centre counter) defence:
+number of games played: 3 with wins % as white: 100.0%
+
+number of games played: 2 with wins % as black: 0.0%
+
+A00  Dunst (Sleipner, Heinrichsen) opening:
+number of games played: 1 with wins % as white: 100.0%
+
+number of games played: 1 with wins % as black: 100.0%
+
+A00  Polish (Sokolsky) opening:
+number of games played: 1 with wins % as black: 0.0%
+
+C42-C43  Petrov's defence:
+number of games played: 1 with wins % as white: 100.0%
+
+A40-A41  Queen's pawn:
+number of games played: 11 with wins % as black: 81.81818181818183%
+
+C00-C19  French defence:
+number of games played: 5 with wins % as white: 80.0%
+
+B00  Owen defence:
+number of games played: 1 with wins % as white: 0.0%
+
+A80-A99  Dutch:
+number of games played: 5 with wins % as black: 40.0%
+
+A04-A09  Reti opening:
+number of games played: 1 with wins % as black: 100.0%
+
+B00  KP, Nimzovich defence:
+number of games played: 1 with wins % as white: 100.0%
+
+B06  Robatsch (modern) defence:
+number of games played: 2 with wins % as white: 50.0%
+
+B10-B19  Caro-Kann defence:
+number of games played: 4 with wins % as white: 0.0%
+
+number of games played: 24 with wins % as black: 41.66666666666667%

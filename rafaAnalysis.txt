@@ -1,0 +1,201 @@
+B00  KP, Nimzovich defence, Bogolyubov variation:
+number of games played: 1 with wins % as white: 0.0%
+
+A02-A03  Bird's opening:
+number of games played: 5 with wins % as black: 40.0%
+
+A00  Anderssen's opening:
+number of games played: 7 with wins % as black: 42.857142857142854%
+
+C55-C59  Two knights defence:
+number of games played: 18 with wins % as white: 61.111111111111114%
+
+B00  Fred:
+number of games played: 4 with wins % as white: 50.0%
+
+B01  Scandinavian (centre counter) defence:
+number of games played: 33 with wins % as white: 48.484848484848484%
+
+number of games played: 4 with wins % as black: 25.0%
+
+A00  Van't Kruijs opening:
+number of games played: 2 with wins % as white: 50.0%
+
+number of games played: 4 with wins % as black: 50.0%
+
+A10-A39  English opening:
+number of games played: 8 with wins % as black: 37.5%
+
+C40  King's knight opening:
+number of games played: 5 with wins % as white: 20.0%
+
+D00  Queen's pawn game:
+number of games played: 2 with wins % as black: 50.0%
+
+C42-C43  Petrov's defence:
+number of games played: 12 with wins % as white: 66.66666666666666%
+
+C40  Gunderam defence:
+number of games played: 1 with wins % as white: 100.0%
+
+C50  Rousseau gambit:
+number of games played: 1 with wins % as white: 0.0%
+
+B10-B19  Caro-Kann defence:
+number of games played: 11 with wins % as white: 72.72727272727273%
+
+A00  Mieses opening:
+number of games played: 1 with wins % as white: 100.0%
+
+number of games played: 3 with wins % as black: 33.33333333333333%
+
+B00  St. George (Baker) defence:
+number of games played: 1 with wins % as white: 0.0%
+
+B00  Carr's defence:
+number of games played: 1 with wins % as white: 0.0%
+
+B06  Robatsch (modern) defence:
+number of games played: 19 with wins % as white: 42.10526315789473%
+
+C41  Philidor, Nimzovich variation:
+number of games played: 1 with wins % as white: 100.0%
+
+D20-D29  Queen's gambit accepted:
+number of games played: 1 with wins % as black: 0.0%
+
+A00  Grob's attack:
+number of games played: 2 with wins % as black: 100.0%
+
+C00-C19  French defence:
+number of games played: 47 with wins % as white: 53.191489361702125%
+
+number of games played: 139 with wins % as black: 48.92086330935252%
+
+A00  Dunst (Sleipner, Heinrichsen) opening:
+number of games played: 4 with wins % as black: 50.0%
+
+A00  Benko's opening:
+number of games played: 1 with wins % as white: 0.0%
+
+number of games played: 11 with wins % as black: 27.27272727272727%
+
+C50  Hungarian defence:
+number of games played: 1 with wins % as white: 100.0%
+
+A00  Amar (Paris) opening:
+number of games played: 1 with wins % as black: 0.0%
+
+A00  Clemenz (Mead's, Basman's or de Klerk's) opening:
+number of games played: 1 with wins % as black: 100.0%
+
+C45  Scotch game:
+number of games played: 1 with wins % as white: 0.0%
+
+A45-A46  Queen's pawn game:
+number of games played: 1 with wins % as white: 0.0%
+
+C44  Ponziani opening:
+number of games played: 1 with wins % as black: 100.0%
+
+C20  KP, King's head opening:
+number of games played: 1 with wins % as white: 0.0%
+
+D00  Levitsky attack (Queen's bishop attack):
+number of games played: 1 with wins % as black: 0.0%
+
+A40-A41  Queen's pawn:
+number of games played: 72 with wins % as black: 47.22222222222222%
+
+B01  Scandinavian, Icelandic gambit:
+number of games played: 1 with wins % as white: 100.0%
+
+A00  Durkin's attack:
+number of games played: 2 with wins % as black: 50.0%
+
+A01  Nimzovich-Larsen attack:
+number of games played: 1 with wins % as white: 100.0%
+
+number of games played: 7 with wins % as black: 71.42857142857143%
+
+A00  Lasker simul special:
+number of games played: 1 with wins % as black: 0.0%
+
+C50  King's pawn game:
+number of games played: 28 with wins % as white: 60.71428571428571%
+
+C41  Philidor, exchange variation:
+number of games played: 13 with wins % as white: 53.84615384615385%
+
+C51-C52 Evans gambit:
+number of games played: 23 with wins % as white: 78.26086956521739%
+
+B20-B99  Sicilian defence:
+number of games played: 67 with wins % as white: 56.71641791044776%
+
+C41  Philidor's defence:
+number of games played: 22 with wins % as white: 40.909090909090914%
+
+A04-A09  Reti opening:
+number of games played: 14 with wins % as black: 50.0%
+
+B02-B05  Alekhine's defence:
+number of games played: 5 with wins % as white: 40.0%
+
+A00  Gedult's opening:
+number of games played: 2 with wins % as white: 50.0%
+
+number of games played: 5 with wins % as black: 60.0%
+
+B07-B09  Pirc defence:
+number of games played: 2 with wins % as white: 50.0%
+
+number of games played: 16 with wins % as black: 31.25%
+
+C40  QP counter-gambit (elephant gambit):
+number of games played: 3 with wins % as white: 33.33333333333333%
+
+B01  Scandinavian gambit:
+number of games played: 1 with wins % as white: 0.0%
+
+C40  Greco defence:
+number of games played: 3 with wins % as white: 66.66666666666666%
+
+B00  King's pawn opening:
+number of games played: 6 with wins % as white: 83.33333333333334%
+
+number of games played: 46 with wins % as black: 52.17391304347826%
+
+A00  Ware (Meadow Hay) opening:
+number of games played: 1 with wins % as black: 0.0%
+
+B00  KP, Colorado counter:
+number of games played: 1 with wins % as white: 100.0%
+
+B01  Scandinavian, Marshall variation:
+number of games played: 3 with wins % as white: 0.0%
+
+B06  Robatsch defence:
+number of games played: 1 with wins % as white: 100.0%
+
+C40  Latvian counter-gambit:
+number of games played: 4 with wins % as white: 25.0%
+
+A00  Saragossa opening:
+number of games played: 5 with wins % as black: 20.0%
+
+B00  KP, Nimzovich defence:
+number of games played: 5 with wins % as white: 80.0%
+
+number of games played: 1 with wins % as black: 0.0%
+
+C21-C22  Centre game:
+number of games played: 1 with wins % as white: 0.0%
+
+B00  Owen defence:
+number of games played: 12 with wins % as white: 33.33333333333333%
+
+B01  Scandinavian defence:
+number of games played: 5 with wins % as white: 40.0%
+
+number of games played: 1 with wins % as black: 100.0%

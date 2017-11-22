@@ -1,0 +1,57 @@
+Nimzo-Indian Defense: Classical Variation:
+number of games played: 9 with wins % as black: 55.55555555555556%
+
+Bogo-Indian Defense: Nimzowitsch Variation:
+number of games played: 10 with wins % as black: 40.0%
+
+Italian Game: Classical Variation, Giuoco Pianissimo:
+number of games played: 9 with wins % as white: 66.66666666666666%
+
+Italian Game: Two Knights Defense, Modern Bishop's Opening:
+number of games played: 7 with wins % as white: 28.57142857142857%
+
+Sicilian Defense: Najdorf, Lipnitsky Attack:
+number of games played: 8 with wins % as black: 25.0%
+
+Caro-Kann Defense: Two Knights Attack:
+number of games played: 8 with wins % as white: 25.0%
+
+Sicilian Defense: Paulsen Variation, Bastrikov Variation:
+number of games played: 7 with wins % as white: 0.0%
+
+Sicilian Defense: Classical Variation:
+number of games played: 9 with wins % as white: 33.33333333333333%
+
+Indian Game:
+number of games played: 9 with wins % as black: 44.44444444444444%
+
+Sicilian Defense: Najdorf Variation:
+number of games played: 4 with wins % as white: 50.0%
+
+number of games played: 39 with wins % as black: 41.02564102564102%
+
+Sicilian Defense: Bowdler Attack:
+number of games played: 6 with wins % as black: 50.0%
+
+Italian Game: Classical Variation, Greco Gambit, Greco Variation:
+number of games played: 6 with wins % as white: 66.66666666666666%
+
+Sicilian Defense #2:
+number of games played: 6 with wins % as white: 33.33333333333333%
+
+number of games played: 1 with wins % as black: 0.0%
+
+English Opening: King's English Variation:
+number of games played: 6 with wins % as black: 16.666666666666664%
+
+Italian Game: Giuoco Pianissimo, Normal:
+number of games played: 6 with wins % as white: 16.666666666666664%
+
+Italian Game: Classical Variation #2:
+number of games played: 9 with wins % as white: 66.66666666666666%
+
+Sicilian Defense: McDonnell Attack:
+number of games played: 12 with wins % as black: 33.33333333333333%
+
+Sicilian Defense:
+number of games played: 11 with wins % as black: 36.36363636363637%
